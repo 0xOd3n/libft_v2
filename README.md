@@ -1,10 +1,6 @@
-<h1># 42cursus - Libft</h4>
+<h1>42cursus - Libft</h1>
 
-Libft is a project that aims to replicate a few functions of the Standard C Library (libc).
-
-<h2>About</h2>
-
->The purpose of this project is to re-code some `libc` functions, as well as other common utility functions to be reused in the subsequent 42 projects.
+>Libft is a project that aims to replicate a few functions of the Standard C Library (libc).
 
 <h2>Files</h2>
 
